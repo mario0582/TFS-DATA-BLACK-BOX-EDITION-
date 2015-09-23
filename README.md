@@ -6,5 +6,7 @@ ultima atualização: 23/set/2015 scan_https://www.virustotal.com/pt/file/3b3295
 downloads : (sempre a ultima rev)
 
 x64 - 
-https://onedrive.live.com/download?resid=AF25691E80D08A92!138&authkey=!ABf5s4rzGuw91eo&ithint=file%2crar
+ https://onedrive.live.com/download?resid=AF25691E80D08A92!138&authkey=!ABf5s4rzGuw91eo&ithint=file%2crar
+
 x86/32 -
+ ainda não disponivel.
